@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Doha Ali
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Spring Framework
-- 💞️ I’m looking to collaborate on Spring Projects
+- 💞️ I’m looking to collaborate on .NET Projects
 - 📫 How to reach me 
 - Gmail : alimostafa151271@gmail.com
 - LinkedIn : https://www.linkedin.com/in/doha-a-82b933233
